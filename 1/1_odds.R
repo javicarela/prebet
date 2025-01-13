@@ -1,5 +1,5 @@
 # Extracción odds para 2024 
-setwd("C:/Users/franc/Documents/prebet/Odds_NBA")
+setwd("~/prebet/df_odds")
 library(pdftools)
 lines_total <- c()
 for(i in 1:424){
