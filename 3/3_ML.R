@@ -45,7 +45,7 @@ library(partykit)
 #install.packages("inspectdf")
 
 
-load("~/prebet/df.RData")
+load("~/prebet/data/frames/df.RData")
 set.seed(100)
 library(sjPlot)
 library(caret)
