@@ -1,5 +1,5 @@
 # Algoritmos a aplicar a nuestra df
-load("~/prebet/df.RData")
+load("~/prebet/data/frames/df.RData")
 library(sjPlot)
 library(caret)
 library(data.table)
