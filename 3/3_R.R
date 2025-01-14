@@ -1,5 +1,5 @@
 # Redes neuronales
-load("~/prebet/df.RData")
+load("~/prebet/data/frames/df.RData")
 library(data.table)
 library(keras)
 library(tensorflow)
