@@ -10,9 +10,9 @@ Below is the organization of the repository:
 **Folder:** `1`
 
 Scripts and resources for extracting NBA game data from various sources:
-- Web scraping and API integration.
-- Raw datasets in `.csv` or `.rds` format.
-- Documentation of data sources and extraction workflows.
+- Web scraping from [Basketball reference](https://www.basketball-reference.com/).
+- Raw datasets in `RData` format.
+- Documentation of data sources and extraction workflows.(**In progress**)
 
 ---
 
@@ -23,6 +23,7 @@ Processes for cleaning and preparing the raw data for analysis:
 - Handling missing values, outliers, and normalization.
 - Merging and restructuring datasets.
 - Reports summarizing cleaning and validation steps.
+- Creation of new variables ( rankings, victories in a row,...)
 
 ---
 
@@ -32,8 +33,9 @@ Processes for cleaning and preparing the raw data for analysis:
 Implementation of machine learning models for predicting game outcomes:
 - Training and evaluation scripts for logistic regression, random forests, gradient boosting, etc.
 - Hyperparameter tuning and cross-validation workflows.
-- Saved models for deployment in `.rds` format.
-- Model evaluation reports.
+- Saved models for deployment in `.rds` format. (**In progress**)
+- Model evaluation reports with plots visualitation (**In progress**
+- ...
 
 ---
 
@@ -43,8 +45,8 @@ Implementation of machine learning models for predicting game outcomes:
 Analysis of profitability and portfolio management:
 - Profit calculation scripts based on predictions.
 - Portfolio simulation and management workflows.
-- Probability modeling and visualization of profit distributions.
-
+- Probability modeling and visualization of profit distributions. (**In progress**)
+- ...
 ---
 
 ### **5. Automatic Betting Algorithm (In Progress)**
@@ -54,6 +56,7 @@ Development of automated betting algorithms:
 - Early-stage scripts for automated betting decisions.
 - Integration with betting platforms (if applicable).
 - Debugging logs and testing files.
+- ...
 
 ---
 
@@ -66,6 +69,7 @@ Resources for promoting the project:
 - Drafts of social media posts and blog content.
 - Tracking files for engagement and visibility metrics.
 - [YouTube channel](https://www.youtube.com/@NBAStatisticalCharts-m8i)
+- ...
 
 ---
 
