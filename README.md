@@ -3,7 +3,6 @@
 This repository contains all the components necessary to extract, manage, and analyze NBA game data, implement machine learning algorithms for prediction, and evaluate profitability. 
 [Youtube channel](https://www.youtube.com/@NBAStatisticalCharts-m8i) ( **In progress**)
 Below is the organization of the repository:
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
 ## Repository Structure
 
 ### **1. Data Extraction**
@@ -12,7 +11,8 @@ Below is the organization of the repository:
 Scripts and resources for extracting NBA game data from various sources:
 - Web scraping from [Basketball reference](https://www.basketball-reference.com/).
 - Raw datasets in `RData` format.
-- Documentation of data sources and extraction workflows.(**In progress**)
+- Documentation of data sources and extraction workflows.![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+
 
 ---
 
@@ -33,8 +33,10 @@ Processes for cleaning and preparing the raw data for analysis:
 Implementation of machine learning models for predicting game outcomes:
 - Training and evaluation scripts for logistic regression, random forests, gradient boosting, etc.
 - Hyperparameter tuning and cross-validation workflows.
-- Saved models for deployment in `.rds` format. (**In progress**)
-- Model evaluation reports with plots visualitation (**In progress**
+- Saved models for deployment in `.rds` format. ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+
+- Model evaluation reports with plots visualitation ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+
 - ...
 
 ---
@@ -45,11 +47,13 @@ Implementation of machine learning models for predicting game outcomes:
 Analysis of profitability and portfolio management:
 - Profit calculation scripts based on predictions.
 - Portfolio simulation and management workflows.
-- Probability modeling and visualization of profit distributions. (**In progress**)
+- Probability modeling and visualization of profit distributions. ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+
 - ...
 ---
 
-### **5. Automatic Betting Algorithm (In Progress)**
+### **5. Automatic Betting Algorithm ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+**
 **Folder:** `5`
 
 Development of automated betting algorithms:
@@ -60,7 +64,8 @@ Development of automated betting algorithms:
 
 ---
 
-### **6. Marketing and Advertising (In Progress)**
+### **6. Marketing and Advertising ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+**
 **Folder:** `6`
 
 Resources for promoting the project:
@@ -69,7 +74,8 @@ Resources for promoting the project:
 - Drafts of social media posts and blog content.
 - Tracking files for engagement and visibility metrics.
 - [YouTube channel](https://www.youtube.com/@NBAStatisticalCharts-m8i)
-- Creating a shiny app for interacting with the data (**In progress**)
+- Creating a shiny app for interacting with the data ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+
 - ...
 
 ---
