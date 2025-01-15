@@ -63,7 +63,7 @@ Resources for promoting the project:
 - Branding materials (e.g., logos, banners).
 - Drafts of social media posts and blog content.
 - Tracking files for engagement and visibility metrics.
-- Youtube channel
+- [![YouTube Channel](https://www.youtube.com/@NBAStatisticalCharts-m8i)
 
 ---
 
