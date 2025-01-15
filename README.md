@@ -34,10 +34,7 @@ Processes for cleaning and preparing the raw data for analysis:
 Implementation of machine learning models for predicting game outcomes:
 - Training and evaluation scripts for logistic regression, random forests, gradient boosting, etc.
 - Hyperparameter tuning and cross-validation workflows.
-- Saved models for deployment in `.rds` format. ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) |
-
 - Model evaluation reports with plots visualitation ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
-
 - ...
 
 ---
