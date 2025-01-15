@@ -49,8 +49,7 @@ Analysis of profitability and portfolio management:
 - ...
 ---
 
-### **5. Automatic Betting Algorithm ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
-**
+### **5. Automatic Betting Algorithm ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)**
 **Folder:** `5`
 
 Development of automated betting algorithms:
@@ -61,8 +60,7 @@ Development of automated betting algorithms:
 
 ---
 
-### **6. Marketing and Advertising ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
-**
+### **6. Marketing and Advertising ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)**
 **Folder:** `6`
 
 Resources for promoting the project:
