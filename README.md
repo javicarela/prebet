@@ -1,4 +1,4 @@
-# NBA Games Project: Data Extraction, Management, Prediction, and Profitability Analysis
+# Prebet
 
 This repository contains all the components necessary to extract, manage, and analyze NBA game data, implement machine learning algorithms for prediction, and evaluate profitability. 
 [Youtube channel](https://www.youtube.com/@NBAStatisticalCharts-m8i) ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
