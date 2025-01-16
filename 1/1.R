@@ -561,7 +561,8 @@ estadisticas <- cbind(table_team1,table_team2)
 
 
 
-
+# =================================================================================
+# In progress
 # Selección de los resultados por cuartos
 url <- "https://www.basketball-reference.com/boxscores/pbp/202210180BOS.html"
 df_partido <- data.table(html_table(pbp)[1])
