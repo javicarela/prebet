@@ -1,5 +1,5 @@
 # Análisis predicciones  + cuotas
-load("~/prebet/data/frames/df.RData")
+load("~prebet/data_frames/NBA_games_info.RData")
 library(data.table)
 library(knitr)
 trainData <- df[temporada<2024, ]
