@@ -1,6 +1,6 @@
 # Montecarlo simulation
 library(data.table)
-load("~/prebet/data/frames/df.RData")
+load("~prebet/data_frames/NBA_games_info.RData")
 setDT(df)
 df_Team <- df[Team == "Atlanta Hawks",]
 df_Team$V <- as.numeric(df_Team$V)
