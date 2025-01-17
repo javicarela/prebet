@@ -1,7 +1,7 @@
 # Actual best algorithm
 <img src="https://raw.githubusercontent.com/javicarela/prebet/main/plots/performance_x_algorithm.jpeg" width="600">
 The red line represents the threshold that separates positive from negative performance. 
-Currently, the algorithm is profitable for 1 out of the 4 seasons in which training and testing have been conducted
+Currently, the algorithm is profitable for 1 out of the 4 seasons in which training and testing have been conducted, with differents algorithms.
 
 # Prebet
 
