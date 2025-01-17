@@ -10,7 +10,7 @@ Below is the organization of the repository:
 **Folder:** `1`
 
 Scripts and resources for extracting NBA game data from various sources:
-- Web scraping from [Basketball reference](https://www.basketball-reference.com/).
+- Web scraping from [Basketball reference](https://www.basketball-reference.com/). `1.R` and `1_odds.R`
 - Raw datasets in `RData` format.
 - Documentation of data sources and extraction workflows.![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
 
