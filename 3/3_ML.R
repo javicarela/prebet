@@ -45,7 +45,7 @@ library(partykit)
 #install.packages("inspectdf")
 
 
-load("~/prebet/data/frames/df.RData")
+load("~prebet/data_frames/NBA_games_info.RData")
 set.seed(100)
 library(sjPlot)
 library(caret)
