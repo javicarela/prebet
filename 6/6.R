@@ -7,7 +7,7 @@ library(gganimate)
 library(data.table)
 
 # Cargar los datos
-load("~/prebet/df.RData")
+load("~prebet/data_frames/NBA_games_info.RData")
 # Preprocesamiento de datos
 df_chart <- df %>%
   select(Team, Points, Date) %>%
