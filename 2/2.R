@@ -1,5 +1,5 @@
 # Exploración y modificación para la parte 4
-load("~/prebet/data/frames/df.RData")
+load("~prebet/data_frames/NBA_games_info.RData")
 df$Date <- as.Date(df$Date)
 df <- df %>%
   group_by(game_id) %>%
