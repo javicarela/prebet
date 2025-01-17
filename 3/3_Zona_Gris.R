@@ -5,7 +5,7 @@ library(caret)
 library(party)
 library(randomForest)
 library(e1071)
-load("~/prebet/data/frames/df.RData")
+load("~prebet/data_frames/NBA_games_info.RData")
 # Análisis de la zona gris #
 #1. Fijamos un delta
 delta <- 0.15
