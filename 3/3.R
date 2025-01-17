@@ -1,5 +1,5 @@
 # Algoritmos a aplicar a nuestra df
-load("~/prebet/data/frames/df.RData")
+load("~prebet/data_frames/NBA_games_info.RData")
 library(sjPlot)
 library(caret)
 library(data.table)
