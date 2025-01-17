@@ -1,5 +1,5 @@
 # Actual best algorithm
-<img src="[https://raw.githubusercontent.com/usuario/repositorio/rama/images/imagen.png](https://github.com/javicarela/prebet/blob/main/plots/performance_x_algorithm.jpeg)" width="300">
+![Performance por Algoritmo](https://raw.githubusercontent.com/javicarela/prebet/main/plots/performance_x_algorithm.jpeg)
 # Prebet
 
 This repository contains all the components necessary to extract, manage, and analyze NBA game data, implement machine learning algorithms for prediction, and evaluate profitability. 
