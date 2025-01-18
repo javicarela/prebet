@@ -4,7 +4,7 @@
 </p>
 The chart represents the algorithm's performance if you were to invest 1 euro in each prediction it makes throughout the season.The red line represents the threshold that separates positive from negative performance. 
 
-Currently the algorithm is profitable for 1 out of the 4 seasons in which training and testing have been conducted, with differents algorithms.
+Currently, the algorithm is profitable for 1 out of the 4 seasons in which training and testing have been conducted, with differents algorithms.
 
 # Prebet
 
