@@ -156,11 +156,10 @@ for (i in 1:nrow(df)) {
 table(new_df$Team)
 setDT(new_df)
 new_df <- new_df[!Team=="–",]
-# Ver el nuevo dataframe
 library(dplyr)
 df_odds <- new_df %>%
   arrange(Date, Team)
-## Unión con la df primera
+#Join with the first df
 library(data.table)
 load("~/prebet/df.RData")
 df <- df[,-c("odds")]
@@ -175,8 +174,8 @@ df_odds[, Date := as.Date(Date)]
 df[, Date := as.Date(Date)]
 df_odds[, Team := as.character(Team)]
 df[, Team := as.character(Team)]
-# Unir los data.frames
+# join the data.frames
 df$year>2009
 df <- merge(df_odds, df[df$year>=2009,], by = c("Date", "Team"), all.y = TRUE)
-# Instroducir los restantes manualmente
+# Introduce the rest manually
 save(df, file = "df.RData")
