@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/javicarela/prebet/main/plots/performance_x_algorithm.jpeg" width="800">
 </p>
-The chart represents the algorithm's performance if you were to invest 1 euro in each prediction it makes throughout the season.The red line represents the threshold that separates positive from negative performance. 
+The chart represents the algorithm's performance if you were to invest 1 unit in each prediction it makes throughout the season.The red line represents the threshold that separates positive from negative performance. 
 
 Currently, the algorithm is profitable for 1 out of the 4 seasons in which training and testing have been conducted, with differents algorithms.
 
