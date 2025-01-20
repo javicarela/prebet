@@ -1,4 +1,4 @@
-# Algoritmos a aplicar a nuestra df
+# Algorithms script
 load("~prebet/data_frames/NBA_games_info.RData")
 library(sjPlot)
 library(caret)
