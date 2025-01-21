@@ -16,7 +16,7 @@ ec_optima <- V ~ odds + odds.opponent + hour + weekday    + Opponent_Zone + temp
  #    avg_V_o_4 + avg_V_o_8 + avg_V_o_12  + avg_V_o_32 + n_victorias +
  #    n_victorias_o + n_derrotas + n_derrotas_o + avg_P_o_1 + avg_P_o_4 + 
  #    avg_P_o_8 + avg_P_o_12 + avg_P_o_16 + avg_P_o_32    
-
+# Function to check the accuracy of any model in the script
 check_modelo <- function(df){
   accuracies_d <- c()
   accuracies_v <- c()
@@ -67,7 +67,7 @@ pred1 <- predict(svm_model1, newdata = testData)
 pred1 <- as.factor(pred1)
 testData$V <- as.factor(testData$V)
 confusionMatrix(pred1, testData$V )
-
+# X gradient 
 library(xgboost)
 model <- xgboost(data = as.matrix(train), label = train$V, max_depth = 6, eta = 0.1, nrounds = 100, objective = "binary:logistic")
 
@@ -83,6 +83,7 @@ trainData <- df[!temporada==2024, ]
 testData  <- df[temporada==2024, ]
 library(h2o)
 h2o.init()
+# Check this out
 aml <- h2o.automl(y = "V", training_frame = as.h2o(trainData), max_models = 10, seed = 1,
                   max_runtime_secs = 60)
 best_model <- aml@leader
