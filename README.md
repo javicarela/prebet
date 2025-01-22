@@ -22,7 +22,6 @@ Scripts and resources for extracting NBA game data from various sources:
 - Raw datasets in `RData` format.
 - Documentation of data sources and extraction workflows.![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
 
-
 ---
 
 ### **2. Database Cleaning**
