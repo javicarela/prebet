@@ -77,7 +77,6 @@ Resources for promoting the project:
 - Tracking files for engagement and visibility metrics.
 - [YouTube channel](https://www.youtube.com/@NBAStatisticalCharts-m8i)
 - Creating a shiny app for interacting with the data ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
-
 - ...
 
 ---
