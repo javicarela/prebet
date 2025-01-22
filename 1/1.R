@@ -3,8 +3,8 @@ library(data.table)
 library(stringr)
 library(lubridate)
 library(zoo)
-# Descarga de los resultados
-# Preparacion urls
+# Download the results
+# Prepare urls
 t <- proc.time() # Inicia el cronómetro
 web <- "https://www.basketball-reference.com"
 months <- c("october","november","december","january","february","march",
