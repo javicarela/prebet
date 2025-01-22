@@ -1,4 +1,4 @@
-# Exploration and modification for 4 part
+# Exploration and modification 
 load("~prebet/data_frames/NBA_games_info.RData")
 df$Date <- as.Date(df$Date)
 df <- df %>%
