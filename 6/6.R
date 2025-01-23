@@ -1,4 +1,5 @@
-# Cargar las librerías
+# Aprox 1h to run 
+# Load the libraries
 library(dplyr)
 library(tidyr)
 library(lubridate)
@@ -6,7 +7,7 @@ library(ggplot2)
 library(gganimate)
 library(data.table)
 
-# Cargar los datos
+# Load the data
 load("~prebet/data_frames/NBA_games_info.RData")
 # Preprocesamiento de datos
 df_chart <- df %>%
@@ -23,7 +24,7 @@ df_chart <- df %>%
          Label = paste0(" ", round(Points_Acc, 2))) %>%
   ungroup()
 
-# Colores de los equipos
+# Colours of the teams
 team_colors <- c(
   "Atlanta Hawks" = "#E03A3E", "Boston Celtics" = "#007A33", "Brooklyn Nets" = "#000000", 
   "Charlotte Hornets" = "#1D1160", "Chicago Bulls" = "#CE1141", "Cleveland Cavaliers" = "#860038", 
