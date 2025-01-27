@@ -86,6 +86,5 @@ Resources for promoting the project:
    ```bash
    git clone https://github.com/javicarela/prebet.git
 
-
 We are dedicated to continuously improving this project. Features currently in development are designed to enhance functionality and user experience. Contributions and feedback are welcome.
 
