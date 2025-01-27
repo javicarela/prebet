@@ -6,7 +6,7 @@ The chart represents the algorithm's performance if you were to invest 1 unit in
 
 Currently, the algorithm is profitable for 1 out of the 4 seasons in which training and testing have been conducted, with differents algorithms.
 
-# Prebet
+# Prebet 
 
 This repository contains all the components necessary to extract, manage, and analyze NBA game data, implementing machine learning algorithms for wins prediction, and evaluate profitability. 
 [Youtube channel](https://www.youtube.com/@NBAStatisticalCharts-m8i) ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
