@@ -1,8 +1,10 @@
+# Libraries
 library(rvest)
 library(data.table)
 library(stringr)
 library(lubridate)
 library(zoo)
+
 # Download the results
 # Prepare urls
 t <- proc.time() # Inicia el cronómetro
