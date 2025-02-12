@@ -1,4 +1,4 @@
-# Carga de las liberrías y datos
+#Data loading and libraries
 library(data.table)
 library(sjPlot)
 library(caret)
