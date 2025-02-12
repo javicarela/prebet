@@ -11,11 +11,6 @@ library(rpart)
 library(rattle)
 library(randomForest)
 library(DT)
-
-#install.packages("tidyverse")
-#install.packages("scatterplot3d")
-#install.packages("ks")
-#install.packages("glmnet")
 library(scatterplot3d)
 library(ks)
 
