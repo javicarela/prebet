@@ -1,4 +1,4 @@
-# prebet
+# Prebet
 these BBDD, were created in local repository, so you can't create them only using the repository's scripts.
 Match stats and betting odds for a large number of historical NBA games and others. Some games from 2009 appear but can be easily removed by selecting seasons from 2010 onward.
 
