@@ -1,4 +1,4 @@
-# Montecarlo simulation
+# Montecarlo simulations
 library(data.table)
 load("~prebet/data_frames/NBA_games_info.RData")
 setDT(df)
