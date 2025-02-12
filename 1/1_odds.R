@@ -1,4 +1,4 @@
-# Extracción odds para 2024 
+#Data extraction for 2024
 setwd("~/prebet/df_odds")
 library(pdftools)
 lines_total <- c()
