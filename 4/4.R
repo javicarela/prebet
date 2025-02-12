@@ -1,4 +1,4 @@
-# Análisis predicciones  + cuotas
+# Prediction analysis and odds analysis 
 load("~prebet/data_frames/NBA_games_info.RData")
 library(data.table)
 library(knitr)
