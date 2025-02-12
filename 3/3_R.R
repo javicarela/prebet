@@ -1,4 +1,4 @@
-# Redes neuronales
+#Neural networks script 
 load("~prebet/data_frames/NBA_games_info.RData")
 library(data.table)
 library(keras)
