@@ -1,4 +1,4 @@
-#Area verde
+#Green Area
 # The green area of the prediction represents those values where bookmakers
 # set odds between 1.6 and 2.4. Why? Because they are the most difficult to predict.
 load("~prebet/data_frames/NBA_games_info.RData")
