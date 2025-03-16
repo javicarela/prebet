@@ -1,5 +1,6 @@
 # Most Profitable Algorithm
 <p align="center">
+
   <img src="https://raw.githubusercontent.com/javicarela/prebet/main/plots/performance_x_algorithm.jpeg" width="800">
 </p>
 The chart represents the algorithm's performance if you were to invest 1 unit in each prediction it makes throughout the season.The red line represents the threshold that separates positive from negative performance. 
